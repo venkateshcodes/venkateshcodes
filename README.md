@@ -33,6 +33,8 @@
 
 <h1 align="center">🌟 Passionate Data Analyst skilled in 📊 data visualization, 🔍 analysis, and storytelling, leveraging tools like 💻 Power BI, 🛠️ SQL, and 🐍 Python to drive data-informed decisions. 🚀</h1>
 
+<img width="50%" align="right" alt="Github Image" src="https://github.com/venkateshcodes/venkateshcodes/blob/13836af7b940af554083a59d5579c561ce52b9a8/git-header.svg" />
+
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
